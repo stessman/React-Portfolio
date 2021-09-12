@@ -1,0 +1,10 @@
+footer{
+    background-color: red;
+    position: absolute;
+bottom: 0;
+width: 100%;
+}
+.footerArea {
+    display: flex;
+justify-content: center;
+}
