@@ -1,0 +1,20 @@
+.aboutMeText{
+    color: whitesmoke;
+    font-weight: 500;
+    font-size: 19px;
+}
+
+.myPhoto{
+    border-radius: 8px;
+    width: 95%;
+    padding: 6px;
+    background-color: rgb(30, 30, 31);
+}
+
+.aboutMeHeader{
+    color: whitesmoke;
+}
+
+.container {
+    padding-top: 40px;
+}

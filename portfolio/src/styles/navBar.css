@@ -5,8 +5,11 @@
 }
 
 .navContainer {
-    background-color: rgb(32, 32, 88);
+    background-color: rgb(30, 30, 31);
     display: flex;
+    min-height: 100px;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .nav-item a{
@@ -22,9 +25,13 @@
 }
 
 .nav-item a.active {
-    color: teal;
+    color: rgb(207, 137, 7);
 }
 
 .nav {
     margin-left: 30px;
+}
+
+.navWrapper{
+    display: flex;
 }

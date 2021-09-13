@@ -4,7 +4,10 @@ import '../styles/navBar.css';
 function NavTabs({ currentPage, handlePageChange }) {
   return (
     <div className="navContainer">
+      <div>
     <h1 className="nameHeading">Scott Tessman</h1>
+    </div>
+    <div className="navWrapper">
     <ul className="nav">
       <li className="nav-item">
         <a
@@ -47,6 +50,7 @@ function NavTabs({ currentPage, handlePageChange }) {
         </a>
       </li>
     </ul>
+    </div>
     </div>
   );
 }
