@@ -1,0 +1,27 @@
+.pdfLink{
+    text-decoration: none;
+    color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    font-size:xx-large;
+}
+
+.pdfLink:hover{
+    color: rgb(139, 133, 133);
+}
+
+.resumeHeader {
+    color: whitesmoke;
+    font-size: 36px;
+    text-align: center;
+}
+
+.resumeList{
+    color: whitesmoke;
+    font-size: 24px;
+}
+
+.resumeList li{
+    justify-content: center;
+    display: flex;
+}
