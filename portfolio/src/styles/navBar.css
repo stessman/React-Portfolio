@@ -1,0 +1,30 @@
+.nameHeading {
+    color: whitesmoke;
+    padding: 10px;
+    font-size: 36px;
+}
+
+.navContainer {
+    background-color: rgb(32, 32, 88);
+    display: flex;
+}
+
+.nav-item a{
+    text-decoration: none;
+    color: whitesmoke;
+    font-weight: bold;
+    font-size: 24px;
+    padding: 20px;
+}
+
+.nav-item a:hover {
+    color: rgb(139, 133, 133);
+}
+
+.nav-item a.active {
+    color: teal;
+}
+
+.nav {
+    margin-left: 30px;
+}
