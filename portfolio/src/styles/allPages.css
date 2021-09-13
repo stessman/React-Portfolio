@@ -1,4 +1,9 @@
 .fillPage {
-    min-height: 100%;
+    min-height: 100vh;
     background-color: tan;
+    position: relative;
+}
+
+.pageWrap {
+    padding-bottom: 50px;
 }
