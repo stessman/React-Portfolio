@@ -10,11 +10,12 @@ footer{
 .footerArea {
 display: flex;
 justify-content: center;
+align-items: center;
 }
 
 .footerLink {
     text-decoration: none;
-    padding: 16px;
+    padding-left: 16px;
     color: whitesmoke;
     font-weight: bold;
     margin-top: 30px;
