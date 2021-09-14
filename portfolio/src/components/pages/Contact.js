@@ -55,10 +55,6 @@ export default function Contact() {
     checkFields();
   };
 
-  const handleFormSubmit = (e) => {
-
-  };
-
   //Checks to see if the fields are satisfied, if not then then submit button is disabled
   const checkFields = () => {
     console.log(emailEmpty, nameEmpty, messageEmpty);
