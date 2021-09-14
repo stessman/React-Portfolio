@@ -1,0 +1,30 @@
+
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgb(30, 30, 31);
+    padding-left: 5px;
+    padding-right: 5px;
+    width: 80%;
+    color: whitesmoke;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.contactContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.formContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.submitButton {
+    margin-top: 8px;
+    width: 30%;
+    display: flex;
+    justify-content: center;
+}
