@@ -4,6 +4,7 @@ import pawsNPals from './assets/img/PawsnPals.png';
 import techBlog from './assets/img/Tech_Blog_homepage.png';
 import noteTaker from './assets/img/Note_Taker.png';
 import weatherDashboard from './assets/img/weatherDashboard.png';
+import workoutTracker from './assets/img/WorkoutTracker_Landing.PNG';
 import '../../styles/portfolioPage.css';
 
 export default function Home() {
@@ -55,9 +56,9 @@ export default function Home() {
       </div>
 
       <div className="col">
-      <h3 className="portHeader">Workout Tracker FINISH ME</h3>
-      <a href="" target="_blank" rel="noreferrer">
-      <img className="portImg" alt="workoutTracker_image" src=""></img>
+      <h3 className="portHeader">Workout Tracker</h3>
+      <a href="https://shielded-bayou-98170.herokuapp.com/" target="_blank" rel="noreferrer">
+      <img className="portImg" alt="workoutTracker_image" src={workoutTracker}></img>
       </a>
       <a className="ghLink" href="https://github.com/stessman/Workout-Tracker"  target="_blank" rel="noreferrer">GitHub</a>
       </div>
