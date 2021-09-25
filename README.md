@@ -5,7 +5,7 @@ Table of Contents
 - [Requirements](#requirements)
 
 ## Image Examples
-<img src="./portfolio/public/Portfolio_home.PNG">
+<img src="./build/Portfolio_home.PNG">
 
 ## Description
 This project was created as both experience using react and to update my personal portfolio.
@@ -24,4 +24,4 @@ This project was created as both experience using react and to update my persona
 - When the user is presented with the Resume section, then they see a link to a downloadable resume and a list of the developer’s proficiencies.
 - When the user views the footer, then they are presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter).
 
-Link to app usage video: [Tech Blog](https://calm-crag-87567.herokuapp.com/) FINISHEDEADASDSAADADAD MEEEEEEEEEEEEEEEEEEEEEEE
+Link to live site: [My Portfolio](https://stessman.github.io/React-Portfolio)
