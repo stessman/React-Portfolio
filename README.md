@@ -5,7 +5,7 @@ Table of Contents
 - [Requirements](#requirements)
 
 ## Image Examples
-<img src="./build/Portfolio_home.PNG">
+<img src="./src/components/pages/assets/img/Portfolio_home.PNG">
 
 ## Description
 This project was created as both experience using react and to update my personal portfolio.
