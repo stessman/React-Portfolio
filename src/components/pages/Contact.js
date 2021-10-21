@@ -99,6 +99,7 @@ export default function Contact() {
     <input type="text" id="email" name="email" value={email} onChange={handleInputChange} onBlur={onBlur}/>
     <label for="lname">Message:</label>
     <input type="text" id="message" name="message" value={message} onChange={handleInputChange} onBlur={fieldBlur}/>
+    <p>Or feel free to contact me directly at 'scott.tessm@gmail.com'</p>
     <p style={styles.email}>Please enter a valid email address</p>
     <p style={styles.fields}>Please fill out all fields</p>
     <input disabled={submitButton} className="submitButton" type="submit" value="Submit"></input>
